@@ -1,0 +1,93 @@
+MIT License
+
+Copyright (c) 2026 [Your name / organization] (documentation author)
+Copyright (c) 2025 BMad Code, LLC (underlying BMAD-METHOD framework this documents)
+
+This documentation is an UNOFFICIAL third-party analysis of the BMAD-METHOD
+framework. It is NOT endorsed, sponsored, or affiliated with BMad Code, LLC.
+
+================================================================================
+PERMISSION
+================================================================================
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this documentation and associated files (the "Documentation"), to deal
+in the Documentation without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Documentation, and to permit persons to whom the Documentation is
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Documentation.
+
+2. The TRADEMARK NOTICE below shall be included in all copies or substantial
+   portions of the Documentation.
+
+3. Modifications and derivative works of this Documentation must not be
+   represented as official BMad Code, LLC documentation.
+
+================================================================================
+TRADEMARK NOTICE
+================================================================================
+
+BMad™, BMad Method™, BMad Core™, BMad Code™, and their variations (including
+BMAD, bmad, BMadMethod, BMAD-METHOD, and all casings) are trademarks of
+BMad Code, LLC.
+
+The use of these trademarks in this Documentation is solely to:
+  - Accurately describe the BMAD-METHOD framework being documented
+  - Reference related components, skills, agents, and concepts by their
+    official names as established by BMad Code, LLC
+
+This trademark use DOES NOT imply endorsement, sponsorship, or partnership
+with BMad Code, LLC. It falls under nominative fair use for the purpose of
+accurate technical description.
+
+For full trademark guidelines, see:
+https://github.com/bmad-code-org/BMAD-METHOD/blob/main/TRADEMARK.md
+
+================================================================================
+DISCLAIMER
+================================================================================
+
+THE DOCUMENTATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE DOCUMENTATION OR THE USE OR OTHER DEALINGS IN
+THE DOCUMENTATION.
+
+The information in this Documentation is based on analysis of the
+BMAD-METHOD framework (v6.3.0, April 2026). The framework may change, and
+this Documentation may become outdated. Always refer to official BMAD-METHOD
+documentation for authoritative, current information:
+
+  Official repo: https://github.com/bmad-code-org/BMAD-METHOD
+  Official docs: https://bmad-method.org
+  License: MIT (https://github.com/bmad-code-org/BMAD-METHOD/blob/main/LICENSE)
+
+================================================================================
+ORIGINAL FRAMEWORK LICENSE
+================================================================================
+
+The BMAD-METHOD framework that this Documentation describes is licensed under
+the MIT License by BMad Code, LLC. The full text of that license is preserved
+in the parent repository's LICENSE file. Relevant portions:
+
+  "Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the 'Software'), to deal
+   in the Software without restriction..."
+
+See: https://github.com/bmad-code-org/BMAD-METHOD/blob/main/LICENSE
+
+================================================================================
+CONTRIBUTIONS TO BMAD-METHOD
+================================================================================
+
+If you wish to contribute to the OFFICIAL BMAD-METHOD framework (not this
+third-party Documentation), please follow the contribution guidelines at:
+
+  https://github.com/bmad-code-org/BMAD-METHOD/blob/main/CONTRIBUTING.md
+
+================================================================================

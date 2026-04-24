@@ -1,0 +1,154 @@
+BMAD-METHOD Developer Deep Dive (Vietnamese Edition)
+Copyright (c) 2026 [Your name] — documentation author
+=============================================================================
+
+This product includes documentation, analysis, code snippets, and references
+derived from the BMAD-METHOD framework.
+
+BMAD-METHOD is an open-source framework licensed under the MIT License.
+Copyright (c) 2025 BMad Code, LLC
+Original framework: https://github.com/bmad-code-org/BMAD-METHOD
+
+=============================================================================
+ATTRIBUTIONS
+=============================================================================
+
+1. BMAD-METHOD Framework
+   -----------------------
+   Source: https://github.com/bmad-code-org/BMAD-METHOD
+   License: MIT License
+   Copyright: (c) 2025 BMad Code, LLC
+   Creator: Brian "BMad" Madison
+   Contributors: See CONTRIBUTORS.md in the original repository
+
+   This documentation references, analyzes, and includes limited code
+   snippets from BMAD-METHOD for educational and documentation purposes.
+   All such inclusions are made under the MIT License terms of the
+   original framework.
+
+   Specific content derived from BMAD-METHOD:
+   - Architectural patterns and principles (analyzed, not copied)
+   - Code snippets from tools/installer/* (limited, with attribution)
+   - YAML/TOML configuration examples (limited, illustrative)
+   - Skill structure references (structural analysis)
+   - Validation rule definitions (referenced with full attribution to
+     tools/skill-validator.md)
+   - Agent persona metadata (reference to official personas)
+
+2. Trademarks
+   -----------
+   BMad™, BMad Method™, BMad Core™, BMad Code™ are trademarks of
+   BMad Code, LLC. Used throughout this documentation for accurate
+   technical reference (nominative fair use) only. This use does not
+   imply endorsement, sponsorship, or affiliation with BMad Code, LLC.
+
+   Trademark guidelines:
+   https://github.com/bmad-code-org/BMAD-METHOD/blob/main/TRADEMARK.md
+
+3. Mermaid Diagrams
+   ----------------
+   All Mermaid diagrams (35 total) are original works created by the
+   documentation author to visualize BMAD-METHOD concepts. They are
+   derivative works of BMAD-METHOD architecture and licensed under
+   the same MIT terms.
+
+4. Vietnamese Translation
+   ----------------------
+   Vietnamese translations and adaptations of BMAD-METHOD concepts are
+   original contributions by the documentation author, created to make
+   the framework more accessible to Vietnamese-speaking developers.
+
+5. Third-party technical references
+   --------------------------------
+   This documentation references the following third-party projects
+   for comparison or context (no code is reproduced):
+   - LangGraph (MIT License) — https://langchain-ai.github.io/langgraph/
+   - CrewAI (MIT License) — https://docs.crewai.com/
+   - AutoGen (CC-BY-4.0) — https://microsoft.github.io/autogen/
+   - Claude Code, Cursor, JetBrains, VS Code — referenced by name only
+   - Astro, Starlight — mentioned as BMad docs pipeline tools
+
+=============================================================================
+WHAT IS INCLUDED IN THIS DOCUMENTATION
+=============================================================================
+
+Original content (created by documentation author):
+  ✓ All narrative/explanatory text in Vietnamese
+  ✓ All Mermaid diagrams (35)
+  ✓ Architecture analyses
+  ✓ Extension pattern guides
+  ✓ Rewrite blueprints (per-language recipes)
+  ✓ FAQ answers
+  ✓ Glossary entries
+  ✓ Testing strategies
+  ✓ Operational runbooks
+  ✓ Cheat sheets
+  ✓ Quality/validation analysis
+
+Referenced content (from BMAD-METHOD, MIT licensed):
+  ✓ Code snippets for documentation (< 50 lines each typically)
+  ✓ YAML/TOML configuration schemas (illustrative)
+  ✓ Skill/Agent names and structural metadata
+  ✓ File paths and architectural references
+  ✓ Validation rule specifications
+
+=============================================================================
+WHAT IS NOT INCLUDED
+=============================================================================
+
+This documentation does NOT include:
+  ✗ Full copies of BMAD-METHOD source files (only snippets for context)
+  ✗ BMad Code, LLC proprietary materials (nothing proprietary referenced)
+  ✗ Claims of official endorsement from BMad Code, LLC
+  ✗ Reproductions of BMad trademarks beyond nominative use
+  ✗ Authoritative statements — always refer to official docs
+
+=============================================================================
+DISCLAIMERS
+=============================================================================
+
+1. UNOFFICIAL STATUS
+   This documentation is an independent, unofficial, third-party work.
+   It is NOT produced, endorsed, reviewed, or approved by BMad Code, LLC.
+
+2. ACCURACY
+   Information is based on BMAD-METHOD v6.3.0 as of April 2026. The
+   framework evolves; this documentation may not reflect the latest
+   version. Always cross-reference with official documentation for
+   authoritative information.
+
+3. NO WARRANTY
+   This documentation is provided "as is" without warranty of any kind.
+   The author makes no representations regarding accuracy, completeness,
+   or suitability for any particular purpose.
+
+4. TRADEMARK USE
+   Use of BMad trademarks in this documentation is solely for descriptive
+   purposes (nominative fair use). This work does not imply endorsement
+   or affiliation with BMad Code, LLC.
+
+=============================================================================
+QUESTIONS AND CORRECTIONS
+=============================================================================
+
+For questions about:
+
+  * BMAD-METHOD framework (official):
+    → https://github.com/bmad-code-org/BMAD-METHOD/issues
+    → https://discord.gg/gk8jAdXWmj
+
+  * Trademark usage (official):
+    → contact@bmadcode.com
+
+  * This documentation (unofficial):
+    → Contact the author via this repository's issues
+
+=============================================================================
+CHANGES LOG
+=============================================================================
+
+2026-04-XX: Initial public release of v1.0
+            - 23 markdown files (~23,500 lines, ~170,000 words)
+            - 35 Mermaid diagrams
+            - Vietnamese language documentation
+            - Analysis based on BMAD-METHOD v6.3.0
